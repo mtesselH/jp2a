@@ -6,6 +6,11 @@ Dockerfile for jp2a
 To run:
 
 ```
+$ docker run -it jp2a <image url>
+
+```
+Example:
+```
 $ docker run -it jp2a https://docs.docker.com/img/nav/docker-logo-loggedin.png
                             .:::::::.                           
                             .:::::::.                           
