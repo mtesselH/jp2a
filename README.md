@@ -6,12 +6,12 @@ Dockerfile for jp2a
 To run:
 
 ```
-$ docker run -it jp2a <image url>
+$ docker run -it mtesselh/jp2a <image url>
 
 ```
 Example:
 ```
-$ docker run -it jp2a https://docs.docker.com/img/nav/docker-logo-loggedin.png
+$ docker run -it mtesselh/jp2a https://docs.docker.com/img/nav/docker-logo-loggedin.png
                             .:::::::.                           
                             .:::::::.                           
                             .:::::::.                           
@@ -34,5 +34,5 @@ $ docker run -it jp2a https://docs.docker.com/img/nav/docker-logo-loggedin.png
    .:ox0KNWMMMMX0xc:::::::::::::::::::::::;',.                  
     ..,cldOXNWMWWN0xo::::::::::::::::::,...                     
        ':;;codxkkkkkxlc:::::::::;'''...                         
-           .::::::::::::::::::::.
+           .::::::::::::::::::::. 
 ```
